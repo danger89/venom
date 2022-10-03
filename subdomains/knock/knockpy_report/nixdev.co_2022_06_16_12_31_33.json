@@ -1,0 +1,118 @@
+{
+    "edu.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "135.181.154.127"
+        ],
+        "code": 401,
+        "server": "nginx"
+    },
+    "bit.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.101"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gitlab.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "34.249.191.22"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "cf.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.57.72.250"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "encoder.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.84"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "lc.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.91"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rooms.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "95.217.234.92"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "net.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.46"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pbi.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.213.188.186"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rem.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.133"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "zeus.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "116.202.214.13"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "sharp.nixdev.co": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "91.208.153.131"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1655382666.0981076,
+        "time_end": 1655382693.50861,
+        "domain": "nixdev.co",
+        "wordlist": 10756
+    }
+}

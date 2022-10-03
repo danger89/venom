@@ -1,0 +1,8 @@
+lc.nixdev.co                  	91.208.153.91
+mvn.nixdev.co                 	116.203.49.116
+rooms.nixdev.co               	95.217.234.92
+zeus.nixdev.co                	116.202.214.13
+net.nixdev.co                 	91.208.153.46
+rem.nixdev.co                 	91.208.153.133
+gitlab.nixdev.co              	34.249.191.22
+info.nixdev.co                	142.132.189.255

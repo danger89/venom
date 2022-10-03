@@ -1,0 +1,11 @@
+redis
+pymongo==3.12.1
+termcolor
+psutil
+celery
+python-magic
+docker
+jinja2
+tinydb
+beautifulsoup4
+tldextract

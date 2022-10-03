@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+from dirhunt.exceptions import catch
+from dirhunt.management import hunt
+
+if __name__ == '__main__':
+    catch(hunt)()

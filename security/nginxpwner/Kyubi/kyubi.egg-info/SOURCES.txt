@@ -1,0 +1,10 @@
+README.md
+setup.py
+kyubi/__init__.py
+kyubi/core.py
+kyubi.egg-info/PKG-INFO
+kyubi.egg-info/SOURCES.txt
+kyubi.egg-info/dependency_links.txt
+kyubi.egg-info/entry_points.txt
+kyubi.egg-info/requires.txt
+kyubi.egg-info/top_level.txt

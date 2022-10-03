@@ -1,0 +1,12 @@
+beautifulsoup4
+click<8
+colorama
+google
+humanize
+proxy-db
+requests
+requests-mock
+
+[:python_version < "3.0"]
+futures
+py2-ipaddress
