@@ -1,0 +1,109 @@
+{
+    "bt.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "78.47.79.56"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "docs.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.19.96.31"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "edu.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "159.69.186.39"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "glpi.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "3.248.131.12"
+        ],
+        "code": 401,
+        "server": "nginx"
+    },
+    "hrm.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.213.169.114"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "jira.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "54.76.140.75"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "learning.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "34.249.226.217"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "mds.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "54.220.74.136"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "moodle.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.211.68.151"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "rooms.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "88.99.174.243"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "www.nixs.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "18.144.183.162"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1666854825.419134,
+        "time_end": 1666854852.2544692,
+        "domain": "nixs.com",
+        "wordlist": 10756
+    }
+}
