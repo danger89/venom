@@ -28,6 +28,8 @@ such as multi-client support.
 
 [`samba-enumerating/enum4linux-ng`](https://github.com/cddmp/enum4linux-ng) - checking public resources for specified ranges on the local network.
 
+[`samba-enumerating/MANSPIDER`](https://github.com/blacklanternsecurity/MANSPIDER) - Spider entire networks for juicy files sitting on SMB shares. Search filenames or file content - regex supported.
+
 [`samba-enumerating/SMBSR`](https://github.com/oldboy21/SMBSR) - lookup for interesting stuff in SMB shares.
 
 [`security/corschecker`](https://github.com/Miladkhoshdel/corschecker) - a Java Script for performing CORS security test.
