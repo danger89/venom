@@ -6,6 +6,8 @@ real-time web UI and terminal displaying.
 [`dos/DDoS-Ripper`](https://github.com/palahsu/DDoS-Ripper) - a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet 
 traffic.
 
+[`dos/Impulse`](https://github.com/LimerBoy/Impulse) - Modern Denial-of-service ToolKit.
+
 [`funny/genact`](https://github.com/svenstaro/genact) - a nonsense activity generator.
 
 [`log4j/log4j-scan`](https://github.com/fullhunt/log4j-scan) - a fully automated, accurate, and extensive 
@@ -23,6 +25,8 @@ scanner for finding vulnerable log4j hosts.
 
 [`rat/pyBackdoor`](https://github.com/xp4xbox/Python-Backdoor) - a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features 
 such as multi-client support.
+
+[`rat/ToxicEye`](https://github.com/LimerBoy/ToxicEye) - Program for remote control of windows computers via telegram bot. Written in C#.
 
 [`samba-enumerating/smbmap`](https://github.com/ShawnDEvans/smbmap) - checking public resources for specified ranges on the local network.
 
